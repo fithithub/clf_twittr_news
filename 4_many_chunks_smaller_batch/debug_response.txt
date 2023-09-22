@@ -1,0 +1,61 @@
+{
+    "id": "chatcmpl-7YBo3BhPe60V4U6WUb3F5lchURaLW",
+    "object": "chat.completion",
+    "created": 1688382891,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1 & politics & [participate, democracy, #ActiveCitizenship, power games, #PeopleOverPolitics]\n2 & politics & [tough choices, leadership, #LeadershipMatters]\n3 & politics & [unity in diversity, #UnityInDiversity]\n4 & politics & [progress, left or right, #ProgressOverPartisanship]\n5 & enviroment & [Earth, respect, #ClimateAction]\n6 & enviroment & [sustainability, #GoGreen]\n7 & enviroment & [nature, care, #PreserveNature]\n8 & enviroment & [Earth Day, pledge, #EveryDayIsEarthDay]\n9 & enviroment & [plant a tree, #ClimateAction]\n10 & war & [peace, #PeaceNotWar]\n11 & war & [human cost, #HumanityFirst]\n12 & war & [truth, transparency, #TruthInWar]\n13 & war & [cost of war, lives lost, #CostOfWar]\n14 & war & [ignorance, #EducationOverWar]\n15 & disasters & [resilience, #Resilience]\n16 & disasters & [collective strength, #UnityInDisaster]\n17 & disasters & [informed, prepared, #DisasterPreparation]\n18 & disasters & [unity, #Solidarity]\n19 & disasters & [hope, #HopeOverFear]\n20 & politics & [tax reform, politicians, economic growth, middle class, #TaxReform]\n21 & enviroment & [climate change, urgent action, \ud83c\udf0d\ud83c\udf31, #ClimateAction]\n22 & war & [diplomacy, peace, dialogue, understanding, #ChoosePeace]\n23 & disasters & [earthquakes, thoughts, support, \ud83d\ude4f, #StayStrong]\n24 & politics & [justice, human rights, equality, #HumanRightsMatter]\n25 & politics & [transparency, accountability, democracy, leaders, #DemocracyFirst]\n26 & enviroment & [conservation, carbon footprint, renewable energy, \ud83c\udf3f\ud83c\udf1e, #SustainableLiving]\n27 & war & [conflict, innocent lives, diplomacy, empathy, #ChooseWisely]\n28 & disasters & [hurricanes, support, \ud83e\udd1d, #RebuildingHope]\n29 & politics & [democracy, citizens, vote, #PowerOfTheBallot]\n30 & politics & [political debates, respectful dialogue, diverse perspectives, #OpenMinds]\n31 & enviroment & [ecosystems, biodiversity, natural habitats, \ud83c\udf3f\ud83d\udc3e, #NatureMatters]"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1011,
+        "completion_tokens": 549,
+        "total_tokens": 1560
+    }
+}{
+    "id": "chatcmpl-7YBoNHVOnx3OwlFkCikfRC95S6B2m",
+    "object": "chat.completion",
+    "created": 1688382911,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1 & war & [diplomacy, negotiations, peaceful resolutions, global harmony, #ChoosePeacefulPaths]\n2 & disasters & [preparedness, resilience, save lives, lending a helping hand, #StayPrepared]\n3 & politics & [freedom of speech, expression, dissent, just and inclusive society, #VoiceOfThePeople]\n4 & politics & [stay informed, stay engaged, hold accountable, elected officials, #PowerToThePeople]\n5 & enviroment & [environmental sustainability, responsibility, eco-friendly practices, \ud83c\udf0e, #GreenLiving]\n6 & war & [peace brings prosperity, invest in peacebuilding, dialogue, cooperation, understanding, \ud83c\udf0d\u262e\ufe0f, #PeaceOverConflict]\n7 & disasters & [solidarity, support, offer resources, stand together, recovery, \ud83e\udd1d\u2764\ufe0f, #RebuildingTogether]\n8 & politics & [exercise your right to vote, shape the future, every vote counts, \ud83d\uddf3\ufe0f\ud83e\udd1d, #YourVoiceMatters]\n9 & war & [strive for peace, not conquest, #WarAndPeace]\n10 & politics & [sustainable politics, securing a better future, #SustainablePolitics]\n11 & enviroment & [rising sea levels, climate change affects us all, work together, #ClimateActionNow]\n12 & war & [strive for diplomacy, peace over conflict, #PeaceOverWar]\n13 & politics & [vote for leaders who defend our planet, #GreenVotesMatter]\n14 & politics & [cleanse politics, integrity, transparency, responsibility, #CleanPolitics]\n15 & disasters & [unite to recover and rebuild, #Resilience]\n16 & enviroment & [focus on planting trees, not planting mines, #GreenPolicy]\n17 & politics & [the most powerful weapon in a democracy is the ballot, use it wisely, #VoteForChange]\n18 & disasters & [strength of unity, help, volunteer, donate, #UnitedWeStand]\n19 & politics & [politics should unite us, #UnityInDiversity]\n20 & enviroment & [protect our home, #EnvironmentProtection]\n21 & disasters & [alleviate hardships, most vulnerable, #DisasterRelief]\n22 & enviroment & [investing in renewable energy, good economics, essential for survival, #RenewableFuture]\n23 & politics & [voice of the people, not just the powerful, leaders who hear you, #VoicesNotEchoes]\n24 & war & [world without war, put humanity first, #NoMoreWar]\n25 & enviroment & [climate change crisis, demand action, not words, #ClimateCrisis]\n26 & war & [stand against politics that fuels wars, promote dialogue, understanding, peace, #PeacePolitics]\n27 & disasters & [mitigate impacts, support initiatives, build resilience, #DisasterPreparedness]\n28 & politics & [sustainable politics, just, equitable society for all, #SustainabilityForAll]\n29 & enviroment & [leaders who listen to science, respect nature, act on climate, #VoteForClimate]\n30 & war & [war displaces people, destroys homes, takes lives, stand for peace, #PeaceNotWar]\n31 & politics & [health of our planet affects generations, vote wisely, #VoteGreen]"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1077,
+        "completion_tokens": 697,
+        "total_tokens": 1774
+    }
+}{
+    "id": "chatcmpl-7YBono7yiI0VJH9bf6OLH0NNfuwLo",
+    "object": "chat.completion",
+    "created": 1688382937,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1 & politics & [vote, future, transparency, accountability, service-oriented]\n2 & enviroment & [saving the planet, climate change, environmental stewardship, small steps, sustainable future]\n3 & disasters & [natural disasters, unite, solidarity, response, compassion]\n4 & politics & [politics, service, transparency, accountability, service-oriented]\n5 & war & [war, peace, destructive, constructive, build]\n6 & enviroment & [environmental stewardship, everyone's responsibility, play your part, small]\n7 & politics & [voice, fear, apathy, vote, active citizenship]\n8 & politics & [politics, people, service-oriented, governance, people over politics]\n9 & disasters & [disaster, unity, rebuild, lives, hopes]\n10 & politics & [vote, choice, future, exercise, power of the ballot]\n11 & politics & [political discourse, progressive solutions, understanding, respectful dialogue, progress]\n12 & war & [war, solution, scars, advocate for peace, no more war]\n13 & enviroment & [climate change, hoax, effects, action, climate change is real]\n14 & politics & [politics, divide, dialogue, understanding, mutual respect]\n15 & disasters & [natural disasters, vulnerability, shared humanity, compassion, support]\n16 & politics & [democracy, citizens, participate, voice, active democracy]\n17 & war & [war, peace, human life, diplomacy, peace not war]\n18 & politics & [politics, policy, people, humanity, people first]\n19 & enviroment & [environment, society, protect, sustainable future]\n20 & disasters & [disaster, come together, rebuild, resilience, unity in crisis]\n21 & enviroment & [climate change, collective action, small steps, every step counts]\n22 & politics & [ballot box, collective future, make them count, your vote matters]\n23 & war & [war, conflict, cost, ordinary people, champion peace]\n24 & politics & [sustainable politics, environment, society, future generations, sustainable politics]\n25 & disasters & [disaster, aftermath, helping hand, act of kindness, disaster relief]\n26 & enviroment & [respect, environment, future generations, leave a better world, respect earth]\n27 & politics & [democracy, voting, engagement, understanding, action, active citizenship]"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 828,
+        "completion_tokens": 496,
+        "total_tokens": 1324
+    }
+}

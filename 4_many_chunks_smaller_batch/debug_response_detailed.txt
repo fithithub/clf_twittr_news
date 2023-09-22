@@ -1,0 +1,281 @@
+Number of tokens inside tweets file:  2363
+Last tweet added to the chunk (count starts at 1):  32
+Tokens inside current chunk + system_message + output prediction:  1959
+Last tweet added to the chunk (count starts at 1):  63
+Tokens inside current chunk + system_message + output prediction:  1995
+Last tweet added to the chunk (count starts at 1):  90
+Tokens inside last chunk + system_message + output prediction: 1656
+---------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------
+Input of tweets provided:  
+Every vote counts. Stand up, participate, let's shape the future of democracy together. #ActiveCitizenship
+Service to people should be at the heart of politics, not power games. #PeopleOverPolitics
+Leadership is about making tough choices and standing by them. #LeadershipMatters
+Our unity in diversity is our greatest strength. Let's cherish it. #UnityInDiversity
+Moving forward together, regardless of left or right, that's the true essence of progress. #ProgressOverPartisanship
+We don't own Earth, we belong to it. Let's respect our home. #ClimateAction
+Sustainability isn't just an option, it's our only future. #GoGreen
+Nature doesn't need us, we need nature. It's time to care for our planet. #PreserveNature
+Every day should be Earth Day. Let's pledge to protect our planet. #EveryDayIsEarthDay
+Remember, the second best time to plant a tree is now. #ClimateAction
+War doesn't determine who is right, only who is left. Let's strive for peace. #PeaceNotWar
+In every war statistic, there's a human story. Let's not forget the human cost. #HumanityFirst
+Truth is often the first casualty of war. Transparency and accountability are crucial. #TruthInWar
+The true cost of war is measured not just in lives lost, but in futures stolen. #CostOfWar
+Let's fight the greatest enemy of all - ignorance, not each other. #EducationOverWar
+Resilience in the face of disaster is about bouncing back stronger. #Resilience
+During disasters, our collective strength shines the brightest. #UnityInDisaster
+Staying informed and prepared can save lives when disaster strikes. #DisasterPreparation
+In the face of disasters, unity is our greatest strength. #Solidarity
+Never lose hope in the face of disaster. It's our most valuable currency. #HopeOverFear
+The new tax reform proposal is causing quite a stir among politicians. Will it lead to economic growth or burden the middle class? Let the debates begin! #TaxReform 
+Climate change is not a hoax; it's a reality that demands urgent action. Let's come together to protect our planet for future generations. 🌍🌱 #ClimateAction       
+War brings devastation and tears. Let's strive for diplomacy and peace instead, resolving conflicts through dialogue and understanding. #ChoosePeace
+Nature can be awe-inspiring, but disasters like earthquakes remind us of its power. Our thoughts and support go out to the affected communities. 🙏 #StayStrong      
+Standing up for justice and human rights is not a choice; it's our duty. Let's raise our voices and create a world where equality reigns. #HumanRightsMatter
+Transparency and accountability are the backbone of a healthy democracy. Let's ensure that our leaders uphold these principles for the betterment of our society. #DemocracyFirst
+Every small step towards conservation counts. By reducing our carbon footprint and embracing renewable energy, we can make a significant impact on the environment. �🌞  #SustainableLiving
+In times of conflict, innocent lives are the casualties. It's crucial to prioritize diplomacy, empathy, and peaceful resolutions to avoid the horrors of war. #ChooseWisely
+Natural disasters like hurricanes leave a trail of devastation, but together, we can rebuild and support affected communities. Let's extend a helping hand. 🤝 #RebuildingHope
+Democracy thrives when citizens actively participate in decision-making. Exercise your right to vote and make your voice heard for a brighter future. PowerOfTheBallot
+Political debates can be heated, but it's essential to engage in respectful dialogue and consider diverse perspectives. Only through understanding can we find common ground. #OpenMinds
+Let's protect our precious ecosystems by conserving biodiversity and preserving natural habitats. Our actions today shape the environment of tomorrow. 🌿🐾  #NatureMatters
+
+
+1 & politics & [participate, democracy, #ActiveCitizenship, power games, #PeopleOverPolitics]
+2 & politics & [tough choices, leadership, #LeadershipMatters]
+3 & politics & [unity in diversity, #UnityInDiversity]
+4 & politics & [progress, left or right, #ProgressOverPartisanship]
+5 & enviroment & [Earth, respect, #ClimateAction]
+6 & enviroment & [sustainability, #GoGreen]
+7 & enviroment & [nature, care, #PreserveNature]
+8 & enviroment & [Earth Day, pledge, #EveryDayIsEarthDay]
+9 & enviroment & [plant a tree, #ClimateAction]
+10 & war & [peace, #PeaceNotWar]
+11 & war & [human cost, #HumanityFirst]
+12 & war & [truth, transparency, #TruthInWar]
+13 & war & [cost of war, lives lost, #CostOfWar]
+14 & war & [ignorance, #EducationOverWar]
+15 & disasters & [resilience, #Resilience]
+16 & disasters & [collective strength, #UnityInDisaster]
+17 & disasters & [informed, prepared, #DisasterPreparation]
+18 & disasters & [unity, #Solidarity]
+19 & disasters & [hope, #HopeOverFear]
+20 & politics & [tax reform, politicians, economic growth, middle class, #TaxReform]
+21 & enviroment & [climate change, urgent action, 🌍🌱, #ClimateAction]
+22 & war & [diplomacy, peace, dialogue, understanding, #ChoosePeace]
+23 & disasters & [earthquakes, thoughts, support, 🙏, #StayStrong]
+24 & politics & [justice, human rights, equality, #HumanRightsMatter]
+25 & politics & [transparency, accountability, democracy, leaders, #DemocracyFirst]
+26 & enviroment & [conservation, carbon footprint, renewable energy, 🌿🌞, #SustainableLiving]
+27 & war & [conflict, innocent lives, diplomacy, empathy, #ChooseWisely]
+28 & disasters & [hurricanes, support, 🤝, #RebuildingHope]
+29 & politics & [democracy, citizens, vote, #PowerOfTheBallot]
+30 & politics & [political debates, respectful dialogue, diverse perspectives, #OpenMinds]
+31 & enviroment & [ecosystems, biodiversity, natural habitats, 🌿🐾, #NatureMatters]
+{
+    "id": "chatcmpl-7YBo3BhPe60V4U6WUb3F5lchURaLW",
+    "object": "chat.completion",
+    "created": 1688382891,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1 & politics & [participate, democracy, #ActiveCitizenship, power games, #PeopleOverPolitics]\n2 & politics & [tough choices, leadership, #LeadershipMatters]\n3 & politics & [unity in diversity, #UnityInDiversity]\n4 & politics & [progress, left or right, #ProgressOverPartisanship]\n5 & enviroment & [Earth, respect, #ClimateAction]\n6 & enviroment & [sustainability, #GoGreen]\n7 & enviroment & [nature, care, #PreserveNature]\n8 & enviroment & [Earth Day, pledge, 
+#EveryDayIsEarthDay]\n9 & enviroment & [plant a tree, #ClimateAction]\n10 & war & [peace, #PeaceNotWar]\n11 & war & [human cost, #HumanityFirst]\n12 & war & [truth, 
+transparency, #TruthInWar]\n13 & war & [cost of war, lives lost, #CostOfWar]\n14 & war & [ignorance, #EducationOverWar]\n15 & disasters & [resilience, #Resilience]\n16 & disasters & [collective strength, #UnityInDisaster]\n17 & disasters & [informed, prepared, #DisasterPreparation]\n18 & disasters & [unity, #Solidarity]\n19 & disasters & [hope, #HopeOverFear]\n20 & politics & [tax reform, politicians, economic growth, middle class, #TaxReform]\n21 & enviroment & [climate change, urgent action, \ud83c\udf0d\ud83c\udf31, #ClimateAction]\n22 & war & [diplomacy, peace, dialogue, understanding, #ChoosePeace]\n23 & disasters & [earthquakes, thoughts, support, \ud83d\ude4f, #StayStrong]\n24 & politics & [justice, human rights, equality, #HumanRightsMatter]\n25 & politics & [transparency, accountability, democracy, leaders, #DemocracyFirst]\n26 & enviroment & [conservation, carbon footprint, renewable energy, \ud83c\udf3f\ud83c\udf1e, #SustainableLiving]\n27 & war & [conflict, innocent lives, diplomacy, empathy, #ChooseWisely]\n28 & disasters & [hurricanes, support, \ud83e\udd1d, #RebuildingHope]\n29 & politics & [democracy, citizens, vote, #PowerOfTheBallot]\n30 & politics & [political debates, respectful dialogue, diverse perspectives, #OpenMinds]\n31 & enviroment & [ecosystems, biodiversity, natural habitats, \ud83c\udf3f\ud83d\udc3e, #NatureMatters]"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1011,
+        "completion_tokens": 549,
+        "total_tokens": 1560
+    }
+}
+Input tokens:  1000
+Output tokens:  549
+Expected output tokens:  960
+Original num tweets:  32 . Obtained num tweets:  31
+---------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------
+Input of tweets provided:  
+War inflicts immeasurable pain and suffering. Let's strive for diplomacy, negotiations, and peaceful resolutions to resolve conflicts and promote global harmony. #ChoosePeacefulPaths
+Disasters can strike unexpectedly, but our preparedness and resilience can save lives. Stay vigilant, stay safe, and help those affected by lending a helping hand. �  #StayPrepared
+The foundations of democracy lie in freedom of speech, expression, and dissent. Let's protect these fundamental rights and ensure a just and inclusive society. 🗣️✊  
+#VoiceOfThePeople
+Political decisions affect the lives of millions. Stay informed, stay engaged, and hold our elected officials accountable for their promises and actions. #PowerToThePeople
+Environmental sustainability isn't a trend; it's a responsibility we owe to our planet and future generations. Let's prioritize eco-friendly practices in all aspects of life. 🌎💚 #GreenLiving
+War brings destruction, but peace brings prosperity. Let's invest in peacebuilding efforts and prioritize dialogue, cooperation, and understanding among nations. 🌍☮️ #PeaceOverConflict
+In the face of natural disasters, solidarity shines through. Let's extend support, offer resources, and stand together with affected communities to aid in their recovery. 🤝❤️ #RebuildingTogether
+Democracy is not a spectator sport. Exercise your right to vote and shape the future you want to see. Every vote counts! 🗳️🤝 #YourVoiceMatters
+A war isn't won on a battlefield alone. It's won in the hearts and minds of people. Let's strive for peace, not conquest. #WarAndPeace
+Remember, sustainable politics isn't about winning the argument; it's about securing a better future for all. #SustainablePolitics
+Rising sea levels don't discriminate. Climate change affects us all. Let's work together to protect our planet. #ClimateActionNow
+Every missile launched, every bullet fired, has a human cost. Let's strive for diplomacy over conflict. #PeaceOverWar
+Elections are the chance to refashion our future. Vote for leaders who will defend our planet. #GreenVotesMatter
+Politics doesn't have to be a dirty game. It's time to cleanse it with integrity, transparency, and responsibility. #CleanPolitics
+Natural disasters can take away much, but they can't take away our spirit. Let's unite to recover and rebuild. #Resilience
+Our policies should focus on planting trees, not planting mines. #GreenPolicy
+Remember: the most powerful weapon in a democracy is the ballot. Use it wisely. #VoteForChange
+In the face of disaster, the strength of our unity shines through. Help, volunteer, donate. Every bit counts. #UnitedWeStand
+Politics shouldn't divide us; it should unite us for the common good. #UnityInDiversity
+The earth does not belong to us; we belong to the earth. Let's protect our home. #EnvironmentProtection
+Disasters don't create suffering; they reveal it. Let's work to alleviate the hardships of the most vulnerable. #DisasterRelief
+Investing in renewable energy isn't just good economics. It's essential for our survival. #RenewableFuture
+Governments should be the voice of the people, not just the powerful. Stand for leaders who hear you. #VoicesNotEchoes
+A world without war is not a dream; it's a necessity. Let's put humanity first. #NoMoreWar
+Climate change isn't a debate; it's a crisis. Demand action, not words. #ClimateCrisis
+Stand against politics that fuels wars and conflict. Promote dialogue, understanding, and peace. #PeacePolitics
+Natural disasters can't be prevented, but their impacts can be mitigated. Support initiatives that build resilience. #DisasterPreparedness
+Sustainable politics isn't just about the environment. It's about ensuring a just, equitable society for all. #SustainabilityForAll
+Leaders who listen to science, respect nature, and act on climate are leaders we need. #VoteForClimate
+War displaces people, destroys homes, and takes lives. Stand for peace. #PeaceNotWar
+Politicians come and go, but the health of our planet affects generations. Vote wisely. #VoteGreen
+
+
+1 & war & [diplomacy, negotiations, peaceful resolutions, global harmony, #ChoosePeacefulPaths]
+2 & disasters & [preparedness, resilience, save lives, lending a helping hand, #StayPrepared]
+3 & politics & [freedom of speech, expression, dissent, just and inclusive society, #VoiceOfThePeople]
+4 & politics & [stay informed, stay engaged, hold accountable, elected officials, #PowerToThePeople]
+5 & enviroment & [environmental sustainability, responsibility, eco-friendly practices, 🌎, #GreenLiving]
+6 & war & [peace brings prosperity, invest in peacebuilding, dialogue, cooperation, understanding, �☮☮️, #PeaceOverConflict]
+7 & disasters & [solidarity, support, offer resources, stand together, recovery, 🤝❤️, #RebuildingTogether]
+8 & politics & [exercise your right to vote, shape the future, every vote counts, 🗳️🤝, #YourVoiceM atters]
+9 & war & [strive for peace, not conquest, #WarAndPeace]
+10 & politics & [sustainable politics, securing a better future, #SustainablePolitics]
+11 & enviroment & [rising sea levels, climate change affects us all, work together, #ClimateActionNow]
+12 & war & [strive for diplomacy, peace over conflict, #PeaceOverWar]
+13 & politics & [vote for leaders who defend our planet, #GreenVotesMatter]
+14 & politics & [cleanse politics, integrity, transparency, responsibility, #CleanPolitics]
+15 & disasters & [unite to recover and rebuild, #Resilience]
+16 & enviroment & [focus on planting trees, not planting mines, #GreenPolicy]
+17 & politics & [the most powerful weapon in a democracy is the ballot, use it wisely, #VoteForChange]
+18 & disasters & [strength of unity, help, volunteer, donate, #UnitedWeStand]
+19 & politics & [politics should unite us, #UnityInDiversity]
+20 & enviroment & [protect our home, #EnvironmentProtection]
+21 & disasters & [alleviate hardships, most vulnerable, #DisasterRelief]
+22 & enviroment & [investing in renewable energy, good economics, essential for survival, #RenewableFuture]
+23 & politics & [voice of the people, not just the powerful, leaders who hear you, #VoicesNotEchoes]
+24 & war & [world without war, put humanity first, #NoMoreWar]
+25 & enviroment & [climate change crisis, demand action, not words, #ClimateCrisis]
+26 & war & [stand against politics that fuels wars, promote dialogue, understanding, peace, #PeacePolitics]
+27 & disasters & [mitigate impacts, support initiatives, build resilience, #DisasterPreparedness]
+28 & politics & [sustainable politics, just, equitable society for all, #SustainabilityForAll]
+29 & enviroment & [leaders who listen to science, respect nature, act on climate, #VoteForClimate]
+30 & war & [war displaces people, destroys homes, takes lives, stand for peace, #PeaceNotWar]
+31 & politics & [health of our planet affects generations, vote wisely, #VoteGreen]
+{
+    "id": "chatcmpl-7YBoNHVOnx3OwlFkCikfRC95S6B2m",
+    "object": "chat.completion",
+    "created": 1688382911,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1 & war & [diplomacy, negotiations, peaceful resolutions, global harmony, #ChoosePeacefulPaths]\n2 & disasters & [preparedness, resilience, save lives, lending a helping hand, #StayPrepared]\n3 & politics & [freedom of speech, expression, dissent, just and inclusive society, #VoiceOfThePeople]\n4 & politics & [stay informed, stay engaged, hold accountable, elected officials, #PowerToThePeople]\n5 & enviroment & [environmental sustainability, responsibility, eco-friendly practices, \ud83c\udf0e, #GreenLiving]\n6 & war & [peace brings prosperity, invest in peacebuilding, dialogue, cooperation, understanding, \ud83c\udf0d\u262e\ufe0f, #PeaceOverConflict]\n7 & disasters & [solidarity, support, offer resources, stand together, recovery, \ud83e\udd1d\u2764\ufe0f, #RebuildingTogether]\n8 & politics & [exercise your right to vote, shape the future, every vote counts, \ud83d\uddf3\ufe0f\ud83e\udd1d, #YourVoiceMatters]\n9 & war & [strive for peace, not conquest, #WarAndPeace]\n10 & politics & [sustainable politics, securing a better future, #SustainablePolitics]\n11 & enviroment & [rising sea levels, climate change affects us all, work together, #ClimateActionNow]\n12 & war & [strive for diplomacy, peace over conflict, #PeaceOverWar]\n13 & politics & [vote for leaders who defend our planet, #GreenVotesMatter]\n14 & politics & [cleanse politics, integrity, transparency, responsibility, #CleanPolitics]\n15 & disasters & [unite to recover and rebuild, #Resilience]\n16 & enviroment & [focus on planting trees, not planting mines, #GreenPolicy]\n17 & politics & [the most powerful weapon in a democracy is the ballot, use it wisely, #VoteForChange]\n18 & disasters & [strength of unity, help, volunteer, donate, #UnitedWeStand]\n19 & politics & [politics should unite us, #UnityInDiversity]\n20 & enviroment & [protect our home, #EnvironmentProtection]\n21 & disasters & [alleviate hardships, most vulnerable, #DisasterRelief]\n22 & enviroment & [investing in renewable energy, good economics, essential for survival, #RenewableFuture]\n23 & politics & [voice of the people, not just the powerful, leaders who hear you, #VoicesNotEchoes]\n24 & war & [world without war, put humanity first, #NoMoreWar]\n25 & enviroment & [climate change crisis, demand action, not words, #ClimateCrisis]\n26 & war & [stand against politics that fuels wars, promote dialogue, understanding, peace, #PeacePolitics]\n27 & disasters & [mitigate impacts, support initiatives, build resilience, #DisasterPreparedness]\n28 & politics & [sustainable politics, just, equitable society for all, #SustainabilityForAll]\n29 & enviroment & [leaders who listen to science, respect nature, act on climate, #VoteForClimate]\n30 & war & [war displaces people, destroys homes, takes lives, stand for peace, #PeaceNotWar]\n31 & politics & [health of our planet affects generations, vote wisely, #VoteGreen]"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 1077,
+        "completion_tokens": 697,
+        "total_tokens": 1774
+    }
+}
+Input tokens:  1066
+Output tokens:  697
+Expected output tokens:  930
+Original num tweets:  31 . Obtained num tweets:  31
+---------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------
+Input of tweets provided:  
+Never underestimate the power of your vote. It can move mountains and mold the future. #YourVoteYourVoice
+It's not just about saving the planet; it's about saving ourselves. #ClimateChangeIsReal
+Natural disasters don't discriminate between political affiliations. Let's unite in our response. #SolidarityInCrisis
+Politics should be about service, not power. Demand transparency, accountability, and service-oriented leadership. #PoliticsOfService
+War is destructive, peace is constructive. Let's build, not destroy. #ConstructPeace
+Environmental stewardship is everyone's responsibility. Play your part, no matter how small.
+Don't let your voice be silenced by fear or apathy. Every vote shapes our collective future. Stand up, participate. #ActiveCitizenship
+Politics should be about people, not power. Let's demand a service-oriented approach to governance. #PeopleOverPolitics
+When disaster strikes, unity is our strongest asset. Together, we can rebuild lives and hopes. #RebuildingHope
+Your vote is more than a choice. It's a declaration for the future you envision. Exercise it. #PowerOfTheBallot
+Engaging in respectful political discourse leads to progressive solutions. Understanding is the first step towards progress. #RespectfulDialogue
+War is not a solution. It leaves scars on lands and lives. Advocate for peace. #NoMoreWar
+Climate change is not a hoax. The effects are real and devastating. We need to take action now. #ClimateChangeIsReal
+Politics should not divide us. It should be a platform for dialogue, understanding, and mutual respect. #PoliticsForUnity
+Natural disasters remind us of our shared vulnerability and shared humanity. Let's extend compassion and support. #DisasterResponse
+Democracy thrives when its citizens participate. Let your voice be heard. #ActiveDemocracy
+Avoiding war is not just about peace, but about respecting human life. Let's choose diplomacy over violence. #PeaceNotWar
+Politics isn't just about policy. It's about people. Let's put humanity at the center of governance. #PeopleFirst
+The health of our environment reflects the health of our society. Let's protect our planet. #SustainableFuture
+Every disaster is an opportunity to come together, rebuild, and demonstrate our resilience. #UnityInCrisis
+The battle against climate change needs collective action. Your small steps matter. #EveryStepCounts
+Our choices in the ballot box shape our collective future. Make them count. #YourVoteMatters
+Every war, every conflict, holds a cost that's paid by ordinary people. Let's champion peace. #CostOfWar
+Sustainable politics promotes the health of our environment, society, and future generations. #SustainablePolitics
+In the aftermath of disaster, every helping hand, every act of kindness, makes a difference. #DisasterRelief
+Respect for our environment is respect for future generations. Let's leave a better world behind. #RespectEarth
+Democracy is more than just voting. It's about engagement, understanding, and action. Be an active citizen. #ActiveCitizenship
+
+
+1 & politics & [vote, future, transparency, accountability, service-oriented]
+2 & enviroment & [saving the planet, climate change, environmental stewardship, small steps, sustainable future]
+3 & disasters & [natural disasters, unite, solidarity, response, compassion]
+4 & politics & [politics, service, transparency, accountability, service-oriented]
+5 & war & [war, peace, destructive, constructive, build]
+6 & enviroment & [environmental stewardship, everyone's responsibility, play your part, small]
+7 & politics & [voice, fear, apathy, vote, active citizenship]
+8 & politics & [politics, people, service-oriented, governance, people over politics]
+9 & disasters & [disaster, unity, rebuild, lives, hopes]
+10 & politics & [vote, choice, future, exercise, power of the ballot]
+11 & politics & [political discourse, progressive solutions, understanding, respectful dialogue, progress]
+12 & war & [war, solution, scars, advocate for peace, no more war]
+13 & enviroment & [climate change, hoax, effects, action, climate change is real]
+14 & politics & [politics, divide, dialogue, understanding, mutual respect]
+15 & disasters & [natural disasters, vulnerability, shared humanity, compassion, support]
+16 & politics & [democracy, citizens, participate, voice, active democracy]
+17 & war & [war, peace, human life, diplomacy, peace not war]
+18 & politics & [politics, policy, people, humanity, people first]
+19 & enviroment & [environment, society, protect, sustainable future]
+20 & disasters & [disaster, come together, rebuild, resilience, unity in crisis]
+21 & enviroment & [climate change, collective action, small steps, every step counts]
+22 & politics & [ballot box, collective future, make them count, your vote matters]
+23 & war & [war, conflict, cost, ordinary people, champion peace]
+24 & politics & [sustainable politics, environment, society, future generations, sustainable politics]
+25 & disasters & [disaster, aftermath, helping hand, act of kindness, disaster relief]
+26 & enviroment & [respect, environment, future generations, leave a better world, respect earth]
+27 & politics & [democracy, voting, engagement, understanding, action, active citizenship]
+{
+    "id": "chatcmpl-7YBono7yiI0VJH9bf6OLH0NNfuwLo",
+    "object": "chat.completion",
+    "created": 1688382937,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1 & politics & [vote, future, transparency, accountability, service-oriented]\n2 & enviroment & [saving the planet, climate change, environmental stewardship, small steps, sustainable future]\n3 & disasters & [natural disasters, unite, solidarity, response, compassion]\n4 & politics & [politics, service, transparency, accountability, service-oriented]\n5 & war & [war, peace, destructive, constructive, build]\n6 & enviroment & [environmental stewardship, everyone's responsibility, play your part, small]\n7 & politics & [voice, fear, apathy, vote, active citizenship]\n8 & politics & [politics, people, service-oriented, governance, people over politics]\n9 & disasters & [disaster, unity, rebuild, lives, hopes]\n10 & politics & [vote, choice, future, exercise, power of the ballot]\n11 & politics & [political discourse, progressive solutions, understanding, respectful dialogue, progress]\n12 & war & [war, solution, scars, advocate for peace, no more war]\n13 & enviroment & [climate change, hoax, effects, action, climate change is real]\n14 & politics & [politics, divide, dialogue, understanding, mutual respect]\n15 & disasters & [natural disasters, vulnerability, shared humanity, compassion, support]\n16 & politics & [democracy, citizens, participate, voice, active democracy]\n17 & war & [war, peace, human life, diplomacy, peace not war]\n18 & politics & [politics, policy, people, humanity, people first]\n19 & enviroment & [environment, society, protect, sustainable future]\n20 & disasters & [disaster, come together, rebuild, resilience, unity in crisis]\n21 & enviroment & [climate change, collective action, small steps, every step counts]\n22 & politics & [ballot box, collective future, make them count, your vote matters]\n23 & war & [war, conflict, cost, ordinary people, champion peace]\n24 & politics & [sustainable politics, environment, society, future generations, sustainable politics]\n25 & disasters & [disaster, aftermath, helping hand, act of kindness, disaster relief]\n26 & enviroment & [respect, environment, future generations, leave a better world, respect earth]\n27 & politics & [democracy, voting, engagement, understanding, action, active citizenship]"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 828,
+        "completion_tokens": 496,
+        "total_tokens": 1324
+    }
+}
+Input tokens:  817
+Output tokens:  496
+Expected output tokens:  810
+Original num tweets:  27 . Obtained num tweets:  27
+---------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------
